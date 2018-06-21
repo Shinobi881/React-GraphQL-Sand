@@ -1,7 +1,7 @@
 {
-  "name": "lyrical",
+  "name": "react-graphql-sand",
   "version": "1.0.0",
-  "description": "Starter point for a graphQL course",
+  "description": "Starter point for Stephen Grider graphQL course",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js --ignore client"
